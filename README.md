@@ -1,1 +1,1 @@
-# si539-discussion-wk11
+Week 11 JS Discussion
